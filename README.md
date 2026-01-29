@@ -17,39 +17,26 @@ The project focuses on relational databases, SQL operations, and core DBMS princ
 
 This repository contains DBMS concepts and SQL implementations created for B.Tech students to understand both theory and practical aspects of database systems.
 
-📚 Topics Covered
+📚 Topics Covered:-
 
 DBMS Fundamentals
-
 ER Model & Relational Model
-
 Attributes & Keys
-
 Normalization (1NF–BCNF)
-
 SQL (DDL, DML, DQL)
-
 Joins & Subqueries
-
 Constraints & Transactions
 
 🛠️ Tools & Technologies
-
 Oracle SQL / MySQL
-
 SQL Developer / MySQL Workbench
-
 Git & GitHub
 
 🎯 Purpose
-
 Academic learning
-
 Lab practice
-
 Exam & interview preparation
 
 👨‍🎓 Author
-
 Piyush Kumar
 B.Tech Student
