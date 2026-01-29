@@ -38,5 +38,5 @@ Lab practice
 Exam & interview preparation
 
 👨‍🎓 Author
-Piyush Kumar
+PIYUSH KUMAR
 B.Tech Student
