@@ -52,6 +52,39 @@ In this lab:
 - Practical SQL queries are executed  
 
 ---
+## 🔹 Lab 04 – Data Retrieval Using SQL (Read-Only Queries)
+
+**Objective:**  
+To understand and practice retrieving and analyzing data from existing database tables using read-only SQL queries without modifying the database structure or stored data.
+
+In this lab:
+- Data is retrieved using SELECT statements  
+- Column aliases are used for better readability  
+- Records are filtered using WHERE clause  
+- Results are sorted using ORDER BY  
+- Limited rows are displayed using FETCH  
+- Derived/computed columns are generated  
+- Date and string functions are applied  
+- Multiple tables are combined using JOIN  
+
+### 📚 Concepts Practiced
+
+- SELECT statement  
+- Column Alias (AS)  
+- WHERE clause  
+- ORDER BY clause  
+- FETCH FIRST n ROWS ONLY  
+- Date functions (SYSDATE, EXTRACT, MONTHS_BETWEEN)  
+- String functions (SUBSTR, INSTR)  
+- JOIN operations  
+
+### 🗂 Tables Used
+
+- STUDENT  
+- FACULTY  
+- COURSE  
+- ENROLLMENT  
+- DEPARTMENT  
 
 ## 📌 Topics Covered
 - DBMS Fundamentals  
