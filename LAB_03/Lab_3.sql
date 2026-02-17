@@ -256,7 +256,7 @@ INSERT INTO Enrollment VALUES (1248, 23105128010, 105503, '5th', 'B+');
 INSERT INTO Enrollment VALUES (1249, 23105128010, 105504, '5th', 'B');
 INSERT INTO Enrollment VALUES (1250, 23105128010, 100508, '5th', 'A');
 
-
+/*After insertion, you can use Run statement for code running (individual) */
 SELECT * FROM Department;
 SELECT * FROM Student;
 SELECT * FROM Faculty;
