@@ -166,7 +166,12 @@ FROM FACULTY;
 -- 14. DELETE DATA (USE CAREFULLY)
 -- ============================================================
 
-DELETE FROM STUDENT;
+DELETE FROM Department;
+DELETE FROM Student;
+DELETE FROM Faculty;
+DELETE FROM Course;
+DELETE FROM Enrollment;
+
 
 
 
@@ -174,8 +179,11 @@ DELETE FROM STUDENT;
 -- 15. DROP TABLE (DANGEROUS)
 -- ============================================================
 
- DROP TABLE STUDENT;
-
+DROP TABLE Department;
+DROP TABLE Student;
+DROP TABLE Faculty;
+DROP TABLE Course;
+DROP TABLE Enrollment;
 
 
 -- ============================================================
