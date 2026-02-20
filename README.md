@@ -97,7 +97,77 @@ In this lab:
 - Transactions  
 
 ---
+# 🔹 Lab 05 – Advanced SQL Queries & Constraints
 
+## 📌 Objective
+To understand and implement advanced SQL queries using joins, aggregate functions, subqueries, and constraints in a relational database.
+
+---
+
+## 📖 Description
+In this lab, we focus on writing complex SQL queries and applying constraints to maintain data integrity. This lab enhances practical understanding of how real-world databases handle relationships and validations.
+
+---
+
+## 🎯 Learning Outcomes
+After completing this lab, you will be able to:
+
+- Write INNER JOIN, LEFT JOIN, RIGHT JOIN
+- Use GROUP BY and HAVING clauses
+- Apply Aggregate functions (COUNT, SUM, AVG, MAX, MIN)
+- Write Subqueries
+- Implement Constraints (PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, CHECK)
+- Perform advanced SELECT queries for real-world scenarios
+
+---
+
+## 🛠 Tools Used
+- Oracle SQL / MySQL / Any RDBMS
+- SQL Developer / Command Line
+- GitHub (for version control)
+
+---
+
+## 🗂 Database Tables Used
+Example tables:
+
+- Student
+- Course
+- Faculty
+- Department
+- Enrollment
+
+---
+
+## 💻 Sample Queries Included
+
+✔ Retrieve students enrolled in a specific course  
+✔ Find average marks per course  
+✔ Display students with highest grade  
+✔ Count total students in each department  
+✔ Apply constraints to ensure data validation  
+
+---
+
+## 🔎 Key Concepts Covered
+- Relational database relationships  
+- Data integrity enforcement  
+- Multi-table queries  
+- Nested queries  
+- Aggregate data analysis  
+
+---
+
+## 📊 Practical Implementation
+- Created tables with proper constraints  
+- Inserted sample data  
+- Executed complex SQL queries  
+- Verified outputs  
+
+---
+
+## 📌 Conclusion
+Lab 05 helped in understanding advanced SQL operations and maintaining data consistency using constraints. It strengthens knowledge of handling relational databases efficiently.
 ## 🛠 Tools & Technologies
 - Oracle SQL  
 - MySQL  
